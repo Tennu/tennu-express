@@ -1,0 +1,26 @@
+{
+  "name": "tennu-express",
+  "version": "1.0.0",
+  "description": "A plugin for the tennu IRC framework. Exposes an ExpressJS hook for other plugins.",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "mocha",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tennu/tennu-express.git"
+  },
+  "keywords": [
+    "tennu",
+    "expressjs",
+    "plugin",
+    "irc"
+  ],
+  "author": "Victorio Berra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tennu/tennu-express/issues"
+  },
+  "homepage": "https://github.com/Tennu/tennu-express#readme"
+}
