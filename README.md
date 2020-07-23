@@ -2,7 +2,7 @@
 
 A plugin for the [tennu](https://github.com/Tennu/tennu) irc framework.
 
-Maintains trigger words that will fire pre-determined responses. Can be set to only respond occasionally. Compatible with [tennu-admin-cooldown](https://github.com/LordWingZero/tennu-admin-cooldown).
+A plugin for the tennu IRC framework. Exposes an ExpressJS hook for other plugins.
 
 ## This Plugin is Experimental
 
